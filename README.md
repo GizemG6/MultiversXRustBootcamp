@@ -21,6 +21,7 @@ Steps
 7- Compile and run the program to ensure it works as expected.
 
 Build, Run and Output
+
 ![Ekran görüntüsü 2024-11-29 155928](https://github.com/user-attachments/assets/b9521282-ac8d-4936-8c5e-33fe8387a953)
 
 Calculator
@@ -48,6 +49,7 @@ Steps
 9- Compile and run the program to ensure it works as expected.
 
 Build, Run and Output
+
 ![Ekran görüntüsü 2024-11-29 152251](https://github.com/user-attachments/assets/acf2930c-9d9c-484f-9995-6fa693ddc364)
 
 Basic Banking System
@@ -77,6 +79,7 @@ Steps
 10- Compile and run the program to ensure it works as expected.
 
 Build, Run and Output
+
 ![Ekran görüntüsü 2024-11-29 153206](https://github.com/user-attachments/assets/6ec00b4c-46b4-460f-a095-18c104f5277e)
 
 Custom Filtering Function
@@ -104,6 +107,7 @@ Steps
 9- Compile and run the program to test its functionality.
 
 Build, Run and Output
+
 ![Ekran görüntüsü 2024-11-29 154200](https://github.com/user-attachments/assets/41127acb-7c70-41ce-ad0f-f049e4be2037)
 
 Handle Errors
@@ -131,5 +135,6 @@ Steps
 9- Compile and run the program to ensure it works as expected.
 
 Build, Run and Output
+
 ![Ekran görüntüsü 2024-11-29 154642](https://github.com/user-attachments/assets/e710a71e-9648-40dd-82e9-2d6a7d299a01)
 
